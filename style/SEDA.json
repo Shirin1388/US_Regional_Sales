@@ -1,0 +1,14 @@
+{
+"name": "SEDA (gab)",
+"dataColors": [
+   "#3E0406","#7C090C","#BB0E12",
+   "#E8222A","#F15F25","#F78D24",
+	"#FAAD20","#FBC86A","#C1CB55",
+   "#95BB64","#4D9B63","#0F785F",
+   "#0A5F47","#063F2F","#062F3F"
+	 ],
+"background": "#FFFFFF",
+"foreground": "#3E0406",
+"tableAccent":"#3E0406"
+
+}
